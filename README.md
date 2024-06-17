@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlekseiLopatin
 - 👀 I’m interested in learning languages (English, Russian, Chinese, French, Thai, Japanese, Python)
 - 🌱 I’m currently learning Python and Python libraries
-- 💞️ I’m looking to collaborate on code for DnD
+- 💞️ I’m looking for a Python Developer job ^^,
 - 📫 How to reach me @leshkalopatin (Instagram)
 
 <!---
