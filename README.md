@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlekseiLopatin
-- 👀 I’m interested in learning languages (English, Russian, Chinese, French, Thai, Japanese, German)
-- 🌱 I’m currently learning Responsive Web Design
+- 👀 I’m interested in learning languages (English, Russian, Chinese, Thai, French, Japanese, German)
+- 🌱 I’m currently learning Front End Development Libraries
 - 💞️ I’m looking for a Full-Stack Software Engineer job ^^,
 - 📫 How to reach me @leshkalopatin (Instagram)
 
