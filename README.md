@@ -53,10 +53,12 @@ I build full-stack web applications and small tools that solve real problems —
 
 ### GitHub stats
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AlekseiLopatin&show_icons=true&hide_border=true&theme=default&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlekseiLopatin&layout=compact&hide_border=true&theme=default" />
-</p>
+<a href="https://github.com/AlekseiLopatin">
+  <img height="165" align="center" src="https://github-readme-stats.vercel.app/api?username=AlekseiLopatin&show_icons=true&hide_border=true&cache_seconds=86400" alt="Aleksei's GitHub stats" />
+</a>
+<a href="https://github.com/AlekseiLopatin">
+  <img height="165" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlekseiLopatin&layout=compact&hide_border=true&cache_seconds=86400" alt="Top languages" />
+</a>
 
 ---
 
