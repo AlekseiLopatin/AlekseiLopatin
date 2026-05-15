@@ -44,9 +44,9 @@ I build full-stack web applications and small tools that solve real problems —
 
 ### Featured projects
 
-- **[Book_shelf](https://github.com/AlekseiLopatin/Book_shelf)** — Django web app that turns an XLSX file into a searchable, browsable book library. Built around real-world data import and a clean Django model layer.
-- **[Critical_hit_bot_discord](https://github.com/AlekseiLopatin/Critical_hit_bot_discord)** — Discord bot that handles extended critical-hit rules for Dungeons & Dragons sessions. Live, async Python with a small but real user base.
-- **[Loc_Generators](https://github.com/AlekseiLopatin/Loc_Generators)** — Python toolkit for generating procedural locations — useful for tabletop GMs and worldbuilders.
+- **[bookshelf](https://github.com/AlekseiLopatin/bookshelf)** — Django web app that turns an XLSX file into a searchable, browsable book library. Built around real-world data import and a clean Django model layer.
+- **[dnd-critical-hit-bot](https://github.com/AlekseiLopatin/dnd-critical-hit-bot)** — Discord bot that handles extended critical-hit rules for Dungeons & Dragons sessions. Live, async Python with a small but real user base.
+- **[location-generators](https://github.com/AlekseiLopatin/location-generators)** — Python toolkit for generating procedural locations — useful for tabletop GMs and worldbuilders.
 - **[alekseilopatin.com](https://github.com/AlekseiLopatin/alekseilopatin.github.io)** — My personal site, built from scratch in JavaScript / HTML / CSS.
 
 ---
