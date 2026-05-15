@@ -51,14 +51,11 @@ I build full-stack web applications and small tools that solve real problems —
 
 ---
 
-### GitHub stats
+### On GitHub
 
-<a href="https://github.com/AlekseiLopatin">
-  <img height="165" align="center" src="https://github-readme-stats.vercel.app/api?username=AlekseiLopatin&show_icons=true&hide_border=true&cache_seconds=86400" alt="Aleksei's GitHub stats" />
-</a>
-<a href="https://github.com/AlekseiLopatin">
-  <img height="165" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlekseiLopatin&layout=compact&hide_border=true&cache_seconds=86400" alt="Top languages" />
-</a>
+![Followers](https://img.shields.io/github/followers/AlekseiLopatin?label=Followers&style=flat-square&color=blue)
+![Public repos](https://img.shields.io/badge/dynamic/json?label=Public%20repos&query=public_repos&url=https://api.github.com/users/AlekseiLopatin&style=flat-square&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=AlekseiLopatin&label=Profile%20views&color=blue&style=flat-square)
 
 ---
 
