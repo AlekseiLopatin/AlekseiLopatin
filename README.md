@@ -60,9 +60,8 @@ I build full-stack web applications and small tools that solve real problems —
 
 ### On GitHub
 
-![Followers](https://img.shields.io/github/followers/AlekseiLopatin?label=Followers&style=flat-square&color=blue)
-![Public repos](https://img.shields.io/badge/dynamic/json?label=Public%20repos&query=public_repos&url=https://api.github.com/users/AlekseiLopatin&style=flat-square&color=blue)
-![Profile views](https://komarev.com/ghpvc/?username=AlekseiLopatin&label=Profile%20views&color=blue&style=flat-square)
+[![Follow on GitHub](https://img.shields.io/github/followers/AlekseiLopatin?label=Follow&style=social)](https://github.com/AlekseiLopatin)
+[![Profile views](https://komarev.com/ghpvc/?username=AlekseiLopatin&label=Profile%20views&color=blue&style=flat-square)](https://github.com/AlekseiLopatin)
 
 ---
 
