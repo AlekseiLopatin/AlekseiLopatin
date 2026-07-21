@@ -2,7 +2,7 @@
 <p align="center">Full-stack developer — React, TypeScript, FastAPI, and Python.</p>
 
 <p align="center">
-  <a href="https://alekseilopatin.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-alekseilopatin.com-2962FF?style=flat-square&logo=googlechrome&logoColor=white"></a>
+  <a href="https://www.alekseilopatin.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-alekseilopatin.com-2962FF?style=flat-square&logo=googlechrome&logoColor=white"></a>
   <a href="mailto:aleshkalopatin@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aleshkalopatin@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/aleksei-lopatin-5019722a4"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
 </p>
@@ -52,7 +52,7 @@ I build full-stack web applications and small tools that solve real problems —
 
 - **[Mini-Gradebook (live)](https://gradebook.alekseilopatin.com)** — Full-stack React + FastAPI + PostgreSQL rebuild of the School Portal API layer, deployed end-to-end. Vite + React + TypeScript frontend on Vercel; FastAPI + SQLAlchemy backend with managed Postgres on Railway, on a custom subdomain. The stack I most want to work in. [Frontend](https://github.com/AlekseiLopatin/school-portal-frontend) · [Backend](https://github.com/AlekseiLopatin/school-portal-api)
 - **[School Portal](https://github.com/AlekseiLopatin/school-website)** — Multilingual school-management app I designed to close the gap between classroom performance and parent visibility. Teacher gradebook, news feed, and student art gallery with role-based access. Built with Next.js 16, TypeScript, Supabase, and Tailwind CSS. News posted in English auto-translates into Thai and Chinese on publish. Deployed at [school.alekseilopatin.com](https://school.alekseilopatin.com).
-- **[alekseilopatin.com](https://github.com/AlekseiLopatin/alekseilopatin.github.io)** — Personal portfolio site with 20+ projects, built from scratch in vanilla HTML / CSS / JavaScript. Deployed on GitHub Pages with a custom domain.
+- **[www.alekseilopatin.com](https://github.com/AlekseiLopatin/alekseilopatin.github.io)** — Personal portfolio site with 20+ projects, built from scratch in vanilla HTML / CSS / JavaScript. Deployed on GitHub Pages with a custom domain.
 - **[Bookshelf](https://github.com/AlekseiLopatin/bookshelf)** — Django web app that turns an XLSX file into a searchable, browsable book library. Built around real-world data import and a clean Django model layer.
 - **[D&D Critical Hit Bot](https://github.com/AlekseiLopatin/dnd-critical-hit-bot)** — Discord bot that handles extended critical-hit rules for Dungeons & Dragons sessions. Live, async Python with a small but real user base.
 
@@ -71,4 +71,4 @@ I'm a serial language learner — currently working through English, Russian, Ch
 
 ---
 
-<p align="center"><sub>📫 Reach me at <a href="mailto:aleshkalopatin@gmail.com">aleshkalopatin@gmail.com</a> or via my <a href="https://alekseilopatin.com">portfolio site</a>.</sub></p>
+<p align="center"><sub>📫 Reach me at <a href="mailto:aleshkalopatin@gmail.com">aleshkalopatin@gmail.com</a> or via my <a href="https://www.alekseilopatin.com">portfolio site</a>.</sub></p>
