@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Aleksei Lopatin</h1>
-<p align="center">Full-stack developer — React, TypeScript, FastAPI, and Python.</p>
+<p align="center">Full-Stack Developer — React / Next.js / TypeScript / Python / FastAPI / PostgreSQL</p>
 
 <p align="center">
   <a href="https://www.alekseilopatin.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-alekseilopatin.com-2962FF?style=flat-square&logo=googlechrome&logoColor=white"></a>
@@ -11,11 +11,13 @@
 
 ### About
 
-I build full-stack web applications and small tools that solve real problems — from a multilingual school-management portal I designed for my own classroom to a React + FastAPI + PostgreSQL gradebook I shipped end-to-end. I care about clean code, good UX, and shipping things people actually use.
+I build and deploy full-stack web applications, from database schemas and APIs to frontend interfaces, authentication, testing and deployment. My recent work includes a multilingual school platform, a React + FastAPI gradebook, a Thai-learning application and a data-driven meal planner.
 
-**Currently:** building with **React, TypeScript, FastAPI, and Next.js**. Most recent project deployed at [gradebook.alekseilopatin.com](https://gradebook.alekseilopatin.com).
+Before focusing on software development, I worked for roughly four years as a data analyst at Knoema, using Python, SQL, data processing and quantitative analysis. I currently teach mathematics and computer science, where several of my education projects originated.
 
-**Open to:** Full-stack and back-end Software Engineer roles — remote or relocation.
+**Based in Thailand. Open to full-stack, frontend and Python backend roles — in Thailand, remotely or with relocation.**
+
+[Current portfolio](https://alekseilopatin.com) · [React portfolio source](https://github.com/AlekseiLopatin/alekseilopatin-react)
 
 ---
 
@@ -48,13 +50,24 @@ I build full-stack web applications and small tools that solve real problems —
 
 ---
 
+**Testing & CI:** pytest · Vitest · React Testing Library · Playwright · GitHub Actions
+
+---
+
 ### Featured projects
 
-- **[Mini-Gradebook (live)](https://gradebook.alekseilopatin.com)** — Full-stack React + FastAPI + PostgreSQL rebuild of the School Portal API layer, deployed end-to-end. Vite + React + TypeScript frontend on Vercel; FastAPI + SQLAlchemy backend with managed Postgres on Railway, on a custom subdomain. The stack I most want to work in. [Frontend](https://github.com/AlekseiLopatin/school-portal-frontend) · [Backend](https://github.com/AlekseiLopatin/school-portal-api)
-- **[School Portal](https://github.com/AlekseiLopatin/school-website)** — Multilingual school-management app I designed to close the gap between classroom performance and parent visibility. Teacher gradebook, news feed, and student art gallery with role-based access. Built with Next.js 16, TypeScript, Supabase, and Tailwind CSS. News posted in English auto-translates into Thai and Chinese on publish. Deployed at [school.alekseilopatin.com](https://school.alekseilopatin.com).
-- **[www.alekseilopatin.com](https://github.com/AlekseiLopatin/alekseilopatin.github.io)** — Personal portfolio site with 20+ projects, built from scratch in vanilla HTML / CSS / JavaScript. Deployed on GitHub Pages with a custom domain.
-- **[Bookshelf](https://github.com/AlekseiLopatin/bookshelf)** — Django web app that turns an XLSX file into a searchable, browsable book library. Built around real-world data import and a clean Django model layer.
-- **[D&D Critical Hit Bot](https://github.com/AlekseiLopatin/dnd-critical-hit-bot)** — Discord bot that handles extended critical-hit rules for Dungeons & Dragons sessions. Live, async Python with a small but real user base.
+- **[School Portal](https://github.com/AlekseiLopatin/school-website)** — Next.js, TypeScript and Supabase school platform with teacher authentication, grade management, multilingual news and a student art gallery. [Live](https://school.alekseilopatin.com)
+- **[Mini-Gradebook · API](https://github.com/AlekseiLopatin/school-portal-api)** — FastAPI and PostgreSQL backend with JWT authentication, SQLAlchemy/Pydantic models, protected REST endpoints, computed grade summaries and pytest CI through GitHub Actions.
+- **[Mini-Gradebook · Frontend](https://github.com/AlekseiLopatin/school-portal-frontend)** — React + TypeScript gradebook with a centralized typed API client, student views and per-student summaries from a separate FastAPI backend. [Live](https://gradebook.alekseilopatin.com)
+- **[Thai Buddy](https://github.com/AlekseiLopatin/thai-buddy)** — Next.js, TypeScript and Supabase Thai-learning app with authentication, row-level security, cloud-synced progress, placement testing and spaced repetition. [Live](https://thai-buddy.vercel.app)
+- **[MacroKin](https://github.com/AlekseiLopatin/macro-calculated-meals)** — Next.js and TypeScript meal planner combining dietary filtering, USDA nutrition data, Supabase and grocery-list generation. [Live](https://macro-calculated-meals.vercel.app)
+- **[React portfolio](https://github.com/AlekseiLopatin/alekseilopatin-react)** — React 19 + Vite application with routing, English/Russian localization, three themes, accessible interfaces and automated tests. [Live](https://alekseilopatin.com)
+
+### Additional work
+
+- **[Bookshelf](https://github.com/AlekseiLopatin/bookshelf)** — Django application that imports an XLSX dataset into a searchable, browsable library.
+- **[D&D Critical Hit Bot](https://github.com/AlekseiLopatin/dnd-critical-hit-bot)** — Asynchronous Python Discord bot for extended critical-hit rules during tabletop sessions.
+- **[Portfolio v1 / Legacy](https://github.com/AlekseiLopatin/alekseilopatin.github.io)** — Original HTML/CSS/JavaScript portfolio. Older projects remain available at [legacy.alekseilopatin.com](https://legacy.alekseilopatin.com).
 
 ---
 
